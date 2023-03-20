@@ -19,4 +19,4 @@ The `dataset.txt` file contains a 5400 x 17 matrix in which:
 
 The `PIN_recognition.ipynb` Jupiter Notebook contains the code to replicate the results in the paper.
 
-The files `rocMat.mat` and `times.mat` have been obtained throguh `PIN_recognition.ipynb` and are attached for an easier replication of the figures.
+The files `rf-prod.csv`, `svm-prod.csv`, `mlp-prod.csv`, and `knn-sum.csv` have been obtained throguh `PIN_recognition.ipynb` and are attached for an easier replication of the figures.
