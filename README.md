@@ -2,7 +2,7 @@
 
 This code package is related to the paper:
 
-M. Nerini, E. Favarelli and M. Chiani, "[Machine Learning for PIN Side-Channel Attacks Based on Smartphone Motion Sensors](https://ieeexplore.ieee.org/document/10061187)," in IEEE Access, 2023.
+M. Nerini, E. Favarelli and M. Chiani, "[Machine Learning for PIN Side-Channel Attacks Based on Smartphone Motion Sensors](https://ieeexplore.ieee.org/document/10061187)," IEEE Access, 2023.
 
 If you use this code or any modified part of it, please cite our paper.
 
