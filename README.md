@@ -2,7 +2,7 @@
 
 This repository contains code to reproduce the paper:
 
-M. Nerini, E. Favarelli, M. Chiani, "[Machine learning for PIN side-channel attacks based on smartphone motion sensors](https://ieeexplore.ieee.org/document/10061187)," IEEE Access, 2023.
+> M. Nerini, E. Favarelli, M. Chiani, "[Machine learning for PIN side-channel attacks based on smartphone motion sensors](https://ieeexplore.ieee.org/document/10061187)," IEEE Access, 2023.
 
 ## Code
 
