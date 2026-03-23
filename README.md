@@ -1,10 +1,10 @@
 # Machine Learning for PIN Side-Channel Attacks Based on Smartphone Motion Sensors
 
-This code package is related to the paper:
+This repository contains code to reproduce the paper:
 
-M. Nerini, E. Favarelli, and M. Chiani, "[Machine Learning for PIN Side-Channel Attacks Based on Smartphone Motion Sensors](https://ieeexplore.ieee.org/document/10061187)," IEEE Access, 2023.
+M. Nerini, E. Favarelli, M. Chiani, "[Machine learning for PIN side-channel attacks based on smartphone motion sensors](https://ieeexplore.ieee.org/document/10061187)," IEEE Access, 2023.
 
-## Content of Code Package
+## Code
 
 The `dataset.txt` file contains a 5400 x 17 matrix in which:
 
